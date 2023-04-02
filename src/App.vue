@@ -2,7 +2,7 @@
  <div class="app">
  <p>{{ name }}-{{ age }}</p>
   <button @click="changeName('Manzi')">Change name </button>
-  <button @click="changeAge(42)">Change name </button>
+  <button @click="changeAge('109')">Change name </button>
  </div>
 </template>
 
